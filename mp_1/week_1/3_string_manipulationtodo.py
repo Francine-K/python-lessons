@@ -20,4 +20,4 @@ food = input("What is your favorite food?")
 tv_show = input("What is your favorite tv show?")
 city = input("What is your favorite city?")
 
-print("My favorite color is" + color + "I graduated college" +college_graduation+ "My favorite movie is" + childhood_movie + "My favorite food" +food+ "My favorite tv show is" +tv_show+ "My favorite city is" +city)
+print("My favorite color is" + color + "I graduated college" + college_graduation + "My favorite movie is" + childhood_movie + "My favorite food" + food + "My favorite tv show is" + tv_show + "My favorite city is" + city)
